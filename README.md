@@ -137,6 +137,3 @@
 >
 > 📧 adityamalviya015@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-malviya17/) | 🌐 [Portfolio](https://portfolio-hubs.vercel.app/p/aftabpathan)
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
