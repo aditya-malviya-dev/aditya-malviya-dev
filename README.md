@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aftab%20Pathan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20Systems%20Programmer%20%7C%20CCNP%20Certified&descAlignY=55&descSize=16"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+production-grade+systems;From+C%2B%2B+HTTP+servers+to+AI+SaaS;React+%7C+TypeScript+%7C+Python+%7C+Java+%7C+C%2B%2B17;CCNP+Certified+%7C+963+Contributions+%F0%9F%94%A5)](https://github.com/Aftab0khan021)
 
 <p>
   <a href="https://www.linkedin.com/in/aftabpathan021/">
