@@ -29,7 +29,7 @@
 ```
 🏆 963 GitHub contributions last year
 🚀 18+ production-grade projects
-🎓 BTech CSE @ LNCT (2022–2026)
+🎓 BTech CSE @ LNCT (2026–2030)
 🏅 CCNP | Wipro Data Science | Salesforce Agentforce | AWS
 ```
 
@@ -140,7 +140,7 @@
 
 > 💼 **Open to:** Full Stack · Backend · SDE roles — Remote & On-site
 >
-> 📧 paftab320@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/aftabpathan021) | 🌐 [Portfolio](https://portfolio-hubs.vercel.app/p/aftabpathan)
+> 📧 adityamalviya015@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-malviya17/) | 🌐 [Portfolio](https://portfolio-hubs.vercel.app/p/aftabpathan)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
