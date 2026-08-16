@@ -2,13 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:111827,75:2563EB,100:06B6D4&text=ADITYA%20MALVIYA&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=CSE%20(AI%2FML)%20%7C%20Aspiring%20Software%20Engineer&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/aditya-malviya-dev
+">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;C%2B%2B+%7C+Python+%7C+DSA+%7C+AI%2FML;Turning+ideas+into+real+projects+%F0%9F%9A%80;Learning+in+public%2C+one+commit+at+a+time." alt="Typing animation"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/aditya-malviya-dev
+">
 <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/">
@@ -20,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=aditya-malviya-dev&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -98,17 +100,17 @@ Exploring
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1020&title_color=22D3EE&icon_color=60A5FA&text_color=CBD5E1" />
+<a href="https://github.com/aditya-malviya-dev">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-malviya-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1020&title_color=22D3EE&icon_color=60A5FA&text_color=CBD5E1" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" />
+<a href="https://github.com/aditya-malviya-dev">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-malviya-dev&layout=compact&langs_count=7&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B1020&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=aditya-malviya-dev&hide_border=true&background=0B1020&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -116,7 +118,7 @@ Exploring
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-malviya-dev&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" />
 
 </div>
 
@@ -276,7 +278,7 @@ REPEAT ♻️
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/aditya-malviya-dev">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
