@@ -7,21 +7,6 @@
   <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 </a>
 
-<br/>
-
-<a href="https://github.com/aditya-malviya-dev
-">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.threads.net/">
-<img src="https://img.shields.io/badge/Threads-111827?style=flat-square&logo=threads&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=aditya-malviya-dev&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
