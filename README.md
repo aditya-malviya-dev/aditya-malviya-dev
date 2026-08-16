@@ -50,12 +50,16 @@ mindset: "Learn → Build → Break → Debug → Improve"
 
 I'm at the beginning of my engineering journey, and I'm building it one project, one problem, and one commit at a time.
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 ⚡ CURRENTLY
 
 <table>
 <tr>
 <td width="50%">
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 🧠 Learning
 
 C++ fundamentals
@@ -71,6 +75,8 @@ AI/ML foundations
 </td>
 <td width="50%">
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 🛠️ Building
 
 VAAS community projects
@@ -87,6 +93,8 @@ My developer portfolio
 </tr>
 </table>
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 🧰 TECHNOLOGIES
 
 <div align="center">
@@ -110,6 +118,8 @@ Exploring
 
 </div>
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 📊 GITHUB ANALYTICS
 
 <div align="center">
@@ -118,12 +128,16 @@ Exploring
 
 </div>
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-malviya-dev&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" />
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 <details>
 <summary><b>📚 My learning roadmap</b></summary>
 
@@ -153,6 +167,8 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 </details>
 
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
 🎯 2026 Progress
 
 <div align="center">
