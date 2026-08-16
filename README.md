@@ -34,15 +34,15 @@ Name: Aditya Malviya
 
 Role: CSE Undergraduate
 
-🔭 I’m currently working as SMTS at Salesforce, Ex: F5, Rtx Corp, Honeywell.
+🔭 I’m currently Pursuing BTech CSE at LNCT Bhopal
 
-🤝 Co-Founder and Technical Writer The Nuclear Geeks
+🤝 Founder and Technical Writer : VAAS
 
-👯 I’m looking to collaborate on Workshops and Seminars for DevOps and Cloud
+👯 I’m looking to collaborate on Workshops and Seminars for Ai and Cloud
 
 👨‍💻 All of my practice and forked projects are available at https://github.com/aditya-malviya-dev
 
-💬 Ask me about DevOps, Cloud, Python and Automation
+💬 Ask me about Ai, Cloud, Python and Automation
 
 📫 How to reach me? ---> adityamalviya015@gmail.com
 
@@ -54,7 +54,9 @@ Focus:
   - Python
   - Artificial Intelligence & Machine Learning
   - Open Source
+  
 currently: "Building fundamentals + shipping small projects"
+
 mindset: "Learn → Build → Break → Debug → Improve"
 
 I'm at the beginning of my engineering journey, and I'm building it one project, one problem, and one commit at a time.
