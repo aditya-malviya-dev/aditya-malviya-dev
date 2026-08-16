@@ -172,24 +172,6 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 </div>
 
-🧩 MY DEVELOPMENT LOOP
-
-<div align="center">
-
-LEARN 📚
-↓
-BUILD 🛠️
-↓
-BREAK 🐛
-↓
-DEBUG 🔍
-↓
-IMPROVE 📈
-↓
-REPEAT ♻️
-
-</div>
-
 🌱 BEYOND THE CODE
 
 01  Curiosity      → I like understanding how things work.
