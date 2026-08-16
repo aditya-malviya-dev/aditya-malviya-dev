@@ -121,7 +121,7 @@ Exploring
 
 </div>
 
- <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+<br>
  
 📈 CONTRIBUTION ACTIVITY
 
