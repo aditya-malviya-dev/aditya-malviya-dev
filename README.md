@@ -37,6 +37,8 @@ Role: CSE Undergraduate
 
 📄 Hobbies include Editing, Coding, Cricket and Learning.
 
+ <img src="https://www.gitskins.com/api/section/stats?username=aditya-malviya-dev&theme=satan&style=aura"/>
+ 
 Focus:
   - Software Engineering
   - Data Structures & Algorithms
@@ -93,8 +95,6 @@ My developer portfolio
 </td>
 </tr>
 </table>
-
- <img src="https://www.gitskins.com/api/section/stats?username=aditya-malviya-dev&theme=satan&style=aura"/>
  
 🧰 TECHNOLOGIES
 
