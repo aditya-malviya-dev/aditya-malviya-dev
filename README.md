@@ -43,6 +43,20 @@ Focus:
 currently: "Building fundamentals + shipping small projects"
 mindset: "Learn → Build → Break → Debug → Improve"
 
+🔭 I’m currently working as SMTS at Salesforce, Ex: F5, Rtx Corp, Honeywell.
+
+🤝 Co-Founder and Technical Writer The Nuclear Geeks
+
+👯 I’m looking to collaborate on Workshops and Seminars for DevOps and Cloud
+
+👨‍💻 All of my practice and forked projects are available at https://github.com/aditya-malviya
+
+💬 Ask me about DevOps, Cloud, Python and Automation
+
+📫 How to reach me malviya.et@gmail.com
+
+📄 Hobbies include Technical Blogging, Cooking, Cricket and Travelling
+
 I'm at the beginning of my engineering journey, and I'm building it one project, one problem, and one commit at a time.
 
 ⚡ CURRENTLY
@@ -104,14 +118,6 @@ Exploring
 📊 GITHUB ANALYTICS
 
 <div align="center">
-
-<a href="https://github.com/aditya-malviya-dev">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-malviya-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1020&title_color=22D3EE&icon_color=60A5FA&text_color=CBD5E1" />
-</a>
-
-<a href="https://github.com/aditya-malviya-dev">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-malviya-dev&layout=compact&langs_count=7&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" />
-</a>
 
 <br/><br/>
 
