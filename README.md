@@ -166,8 +166,6 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 <br/><br/>
 
-Have an idea, project, or interesting problem? Let's build something. 🚀
-
 </div>
 
 <div align="center">
