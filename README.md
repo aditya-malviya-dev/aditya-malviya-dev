@@ -184,17 +184,6 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/aditya-malviya-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.threads.net/">
-<img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white"/>
- <img src="https://www.gitskins.com/api/section/social?username=aditya-malviya-dev&theme=neon"/>
 </a>
 
 <br/><br/>
