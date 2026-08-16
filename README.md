@@ -83,17 +83,18 @@ My developer portfolio
 <div align="center">
 
 Languages
-
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://skillicons.dev/icons?i=cpp,python,c" />
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 
 Development & Tools
-
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,firebase" />
-
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 Exploring
-
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" />
-
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 </div>
 
 📊 GITHUB ANALYTICS
@@ -294,9 +295,9 @@ Have an idea, project, or interesting problem? Let's build something. 🚀
 </div>
 
 <div align="center">
-
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0B1020&height=130&section=footer" width="100%"/>
-
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <sub>⚡ Built with curiosity • Powered by consistency • Still under construction</sub>
 
 </div>
