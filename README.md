@@ -1,12 +1,12 @@
 <div align="center">
 <a href="https://github.com/aditya-malviya-dev
 ">
-  
+  <br>
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=aditya-malviya-dev&theme=neon"/>
   <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://www.gitskins.com/api/readme-reference/focus?username=aditya-malviya-dev&theme=neon"/>
   <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
-  
+  <br>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=aditya-malviya-dev&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
