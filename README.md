@@ -50,11 +50,11 @@ mindset: "Learn → Build → Break → Debug → Improve"
 
 I'm at the beginning of my engineering journey, and I'm building it one project, one problem, and one commit at a time.
 
- <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 
-   <img src="https://www.gitskins.com/showcase/space-shooter.gif"/>
+<img src="https://www.gitskins.com/showcase/space-shooter.gif"/>
 
-    <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
     
 ⚡ CURRENTLY
 
