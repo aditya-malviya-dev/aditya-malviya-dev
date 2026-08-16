@@ -4,7 +4,7 @@
 
 <a href="https://github.com/aditya-malviya-dev
 ">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;C%2B%2B+%7C+Python+%7C+DSA+%7C+AI%2FML;Turning+ideas+into+real+projects+%F0%9F%9A%80;Learning+in+public%2C+one+commit+at+a+time." alt="Typing animation"/>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=aditya-malviya-dev&theme=neon"/>
 </a>
 
 <br/>
@@ -23,8 +23,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aditya-malviya-dev&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
-
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=aditya-malviya-dev&theme=neon"/>
 
 </div>
 
