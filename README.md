@@ -27,7 +27,7 @@
 > whoami
 
 name: Aditya Malviya
-role: CSE (AI/ML) Undergraduate
+role: CSE Undergraduate
 focus:
   - Software Engineering
   - Data Structures & Algorithms
