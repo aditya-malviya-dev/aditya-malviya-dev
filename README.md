@@ -31,6 +31,7 @@
 Name: Aditya Malviya
 
 Role: CSE Undergraduate
+
 Focus:
   - Software Engineering
   - Data Structures & Algorithms
