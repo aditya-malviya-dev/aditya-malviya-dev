@@ -103,16 +103,16 @@ My developer portfolio
 Languages
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://skillicons.dev/icons?i=cpp,python,c" />
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+
 
 Development & Tools
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,firebase" />
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+
 Exploring
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" />
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+
 </div>
 
 📊 GITHUB ANALYTICS
