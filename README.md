@@ -1,310 +1,299 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
-👋 Hey, I'm Aditya Malviya
-
-💻 CSE (AI/ML) Undergraduate • Aspiring Software Engineer • Builder
-
-<p>
-  <em>Learning by building. Growing through consistency. Turning curiosity into code.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:111827,75:2563EB,100:06B6D4&text=ADITYA%20MALVIYA&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=CSE%20(AI%2FML)%20%7C%20Aspiring%20Software%20Engineer&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;C%2B%2B+%7C+Python+%7C+DSA+%7C+AI%2FML;Turning+ideas+into+real+projects+%F0%9F%9A%80;Learning+in+public%2C+one+commit+at+a+time." alt="Typing animation"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.threads.net/">
+<img src="https://img.shields.io/badge/Threads-111827?style=flat-square&logo=threads&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=140&section=header&text=Code%20%7C%20Learn%20%7C%20Build%20%7C%20Repeat&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
 
-🧑‍💻 About Me
+> whoami
 
-🎓 CSE (AI/ML) Undergraduate
-💻 Currently building strong foundations in C++, Python & DSA
-🤖 Exploring Artificial Intelligence & Machine Learning
-🌐 Exploring Software Development & real-world projects
-🐙 Learning Git, GitHub, Open Source & collaborative development
-📚 Learning in public and documenting the journey
-🚀 Long-term goal: become a strong Software Engineer
+name: Aditya Malviya
+role: CSE (AI/ML) Undergraduate
+focus:
+  - Software Engineering
+  - Data Structures & Algorithms
+  - Python
+  - Artificial Intelligence & Machine Learning
+  - Open Source
+currently: "Building fundamentals + shipping small projects"
+mindset: "Learn → Build → Break → Debug → Improve"
 
-I don't want to just learn technology — I want to build with it.
+I'm at the beginning of my engineering journey — and I'm building it one project, one problem, and one commit at a time.
 
-🚀 What I'm Currently Working On
+⚡ CURRENTLY
 
-Focus
+<table>
+<tr>
+<td width="50%">
 
-What I'm Doing
-
-🧠 DSA
-
-Strengthening problem-solving fundamentals
-
-⚡ C++
-
-Learning programming fundamentals and DSA
-
-🐍 Python
-
-Building my foundation for data & AI/ML
-
-🤖 AI/ML
-
-Exploring the fundamentals
-
-🌐 Development
-
-Building and experimenting with projects
-
-🐙 GitHub
-
-Learning version control, collaboration & Open Source
-
-🛠️ Projects
-
-Turning what I learn into practical work
-
-🧰 Tech Stack
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,c" alt="Languages"/>
-</p>
-
-Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,tailwind,firebase" alt="Tools and technologies"/>
-</p>
-
-Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" alt="AI and ML"/>
-</p>
-
-⚠️ My stack is a work in progress. I'm actively learning and adding technologies through projects rather than collecting logos.
-
-📈 My Learning Journey
-
-Programming Fundamentals  ███████████████░░░░░  Growing
-C++                       ████████████░░░░░░░░  Learning
-DSA                       ████████░░░░░░░░░░░░  Building
-Python                    █████████░░░░░░░░░░░  Building
-Git & GitHub               ███████████░░░░░░░░░  Practicing
-AI / ML                    █████░░░░░░░░░░░░░░░  Exploring
-Projects                   ████████░░░░░░░░░░░░  Building
-Open Source                ████░░░░░░░░░░░░░░░░  Exploring
-
-<details>
-<summary>📚 Learning Roadmap</summary>
-
-Phase 01 — Foundations
+🧠 Learning
 
 C++ fundamentals
 
-Problem solving
-
-Git & GitHub
-
-Command line basics
-
-Phase 02 — DSA
-
-Arrays
-
-Strings
-
-Functions
-
-Searching & Sorting
-
-Linked Lists
-
-Stacks & Queues
-
-Trees & Graphs
-
-Dynamic Programming
-
-Phase 03 — Development
-
-HTML / CSS / JavaScript
-
-Responsive interfaces
-
-APIs
-
-Databases
-
-Authentication
-
-Deployment
-
-Phase 04 — AI / ML
+Data Structures & Algorithms
 
 Python
 
-NumPy / Pandas
+Git & GitHub
 
-Data analysis
+AI/ML foundations
 
-Machine learning fundamentals
+</td>
+<td width="50%">
 
-Model building
+🛠️ Building
 
-AI-powered applications
+VAAS community projects
 
-Phase 05 — Real-World Engineering
+Small programming projects
 
-Larger projects
+Web experiments
 
-Open Source contributions
+Practical tools & applications
 
-System design fundamentals
+My developer portfolio
 
-Collaboration
+</td>
+</tr>
+</table>
 
-Interview preparation
-
-</details>
-
-🔥 GitHub Activity
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution graph"/>
-</p>
-
-🏗️ Projects
-
-I believe the best way to learn is to build.
-
-Project
-
-What I'm Learning
-
-🌐 VAAS Website
-
-Web development, APIs, databases & collaboration
-
-📊 Expense Tracker
-
-Data handling, UI & practical development
-
-📅 Attendance App
-
-Application logic, database integration & teamwork
-
-🧪 Learning Projects
-
-C++, Python, DSA & programming fundamentals
-
-More projects coming as I learn, build and experiment. 🚀
-
-🌱 Currently Learning
-
-mindmap
-  root((Aditya))
-    Programming
-      C++
-      Python
-      Problem Solving
-    DSA
-      Arrays
-      Strings
-      Searching
-      Sorting
-    Development
-      HTML
-      CSS
-      JavaScript
-      APIs
-    AI/ML
-      Python
-      Data
-      Machine Learning
-    Engineering
-      Git
-      GitHub
-      Open Source
-      Collaboration
-
-🎯 2026 Goals
-
-Build strong C++ fundamentals
-
-Become consistent with DSA
-
-Build meaningful projects
-
-Improve Python skills
-
-Learn AI/ML fundamentals
-
-Make meaningful Open Source contributions
-
-Build a strong GitHub portfolio
-
-Learn by shipping, not just watching tutorials
-
-Become a better problem solver
-
-Keep showing up consistently
-
-🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.threads.net/">
-<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-</a>
-
-</p>
-
-💡 A Little More About My Philosophy
-
-Start small. Stay consistent. Build publicly. Learn from mistakes.
-
-I'm still at the beginning of my journey, and that's exactly what makes it exciting.
-Every concept I learn, every bug I fix, every project I build and every contribution I make
-is another step toward becoming the engineer I want to be.
+🧰 TECHNOLOGIES
 
 <div align="center">
 
-⭐ If you find something useful here, feel free to explore my repositories!
+Languages
 
-Thanks for visiting my profile! 🚀
+<img src="https://skillicons.dev/icons?i=cpp,python,c" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" />
+Development & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,firebase" />
+
+Exploring
+
+<img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" />
+
+</div>
+
+📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1020&title_color=22D3EE&icon_color=60A5FA&text_color=CBD5E1" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" />
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B1020&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" />
+
+</div>
+
+🚀 PROJECTS
+
+<div align="center">
+
+Project
+
+What it represents
+
+🌐 VAAS Website
+
+Community platform • APIs • Database • Collaboration
+
+📅 Attendance App
+
+Application logic • Data handling • Team development
+
+💰 Expense Tracker
+
+Practical development • UI • Data management
+
+🧪 Learning Projects
+
+C++ • Python • DSA • Programming fundamentals
+
+</div>
+
+More projects will appear here as I turn what I learn into things people can actually use.
+
+🗺️ THE ROAD AHEAD
+
+                 ┌─────────────────────┐
+                 │   CSE (AI / ML)     │
+                 └──────────┬──────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+          C++ / DSA       Python         Git/GitHub
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                     Build Projects
+                            │
+                ┌───────────┴───────────┐
+                ▼                       ▼
+          Web Development            AI / ML
+                │                       │
+                └───────────┬───────────┘
+                            ▼
+                    Open Source
+                            │
+                            ▼
+                  Software Engineering
+
+<details>
+<summary><b>📚 My learning roadmap</b></summary>
+
+<br/>
+
+01 — Foundations
+
+C++ → Programming Logic → Git → GitHub → Command Line
+
+02 — DSA
+
+Arrays → Strings → Searching → Sorting → Linked Lists → Stacks → Queues → Trees → Graphs → DP
+
+03 — Development
+
+HTML → CSS → JavaScript → APIs → Databases → Authentication → Deployment
+
+04 — AI / ML
+
+Python → NumPy → Pandas → Data Analysis → ML Fundamentals → Models → AI Applications
+
+05 — Engineering
+
+Projects → Open Source → Collaboration → System Design → Interview Preparation
+
+</details>
+
+🎯 2026 GOALS
+
+<div align="center">
+
+Goal
+
+Status
+
+🧠 Build strong programming fundamentals
+
+🔄
+
+⚡ Become consistent with DSA
+
+🔄
+
+🐍 Improve Python
+
+🔄
+
+🤖 Learn AI/ML fundamentals
+
+🔄
+
+🛠️ Build meaningful projects
+
+🔄
+
+🌍 Contribute to Open Source
+
+🔄
+
+🐙 Build a strong GitHub portfolio
+
+🔄
+
+💡 Become a better problem solver
+
+🔄
+
+</div>
+
+🧩 MY DEVELOPMENT LOOP
+
+<div align="center">
+
+LEARN 📚
+↓
+BUILD 🛠️
+↓
+BREAK 🐛
+↓
+DEBUG 🔍
+↓
+IMPROVE 📈
+↓
+REPEAT ♻️
+
+</div>
+
+🌱 BEYOND THE CODE
+
+01  Curiosity      → I like understanding how things work.
+02  Consistency    → Small progress compounds.
+03  Experimenting  → I learn fastest by building.
+04  Collaboration  → Good ideas become better with people.
+05  Documentation  → If I learn it, I try to share it.
+
+🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.threads.net/">
+<img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+Have an idea, project, or interesting problem? Let's build something. 🚀
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0B1020&height=130&section=footer" width="100%"/>
+
+<sub>⚡ Built with curiosity • Powered by consistency • Still under construction</sub>
 
 </div>
