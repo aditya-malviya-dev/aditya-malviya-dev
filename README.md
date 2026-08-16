@@ -57,8 +57,6 @@ I'm at the beginning of my engineering journey, and I'm building it one project,
 <table>
 <tr>
 <td width="50%">
-
- <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
  
 🧠 Learning
 
@@ -75,7 +73,6 @@ AI/ML foundations
 </td>
 <td width="50%">
 
- <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
  
 🛠️ Building
 
@@ -92,8 +89,6 @@ My developer portfolio
 </td>
 </tr>
 </table>
-
- <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
  
 🧰 TECHNOLOGIES
 
@@ -117,8 +112,6 @@ Exploring
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 
 </div>
-
- <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
  
 📊 GITHUB ANALYTICS
 
