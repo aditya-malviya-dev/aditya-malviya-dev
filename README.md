@@ -121,13 +121,6 @@ Exploring
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-malviya-dev&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" />
 
-</div>
-....
-
-<img src="https://www.gitskins.com/api/section/portrait?username=aditya-malviya-dev&theme=aurora&v=profile-preview-2&style=terminal&mode=light" />
-
-</div>
-
 <details>
 <summary><b>📚 My learning roadmap</b></summary>
 
