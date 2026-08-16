@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=aditya-malviya-dev&theme=github-dark&v=profile-preview-2&style=terminal&mode=light" />
+<img src="https://www.gitskins.com/api/section/portrait?username=aditya-malviya-dev&theme=aurora&v=profile-preview-2&style=terminal&mode=light" />
 
 > who am i ??
 
