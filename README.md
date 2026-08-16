@@ -122,6 +122,8 @@ Exploring
 </div>
 
 <br>
+
+<br>
  
 📈 CONTRIBUTION ACTIVITY
 
