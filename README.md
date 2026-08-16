@@ -100,6 +100,8 @@ My developer portfolio
 
 <div align="center">
 
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+
 Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python,c" />
