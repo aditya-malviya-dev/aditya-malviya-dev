@@ -24,6 +24,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=aditya-malviya-dev&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
 
+https://www.gitskins.com/api/readme-reference/hero?username=aditya-malviya-dev&theme=neon
+
 </div>
 
 > whoami
