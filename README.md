@@ -17,7 +17,7 @@
 
  <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 
-  <img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=aditya-malviya-dev&theme=github-dark&motion=snake&v=reference-snake-4"/>
+  <img src="https://www.gitskins.com/showcase/space-shooter.gif"/>
  
 > Who am i ??
 
