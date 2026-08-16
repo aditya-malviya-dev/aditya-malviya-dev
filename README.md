@@ -26,7 +26,7 @@
 
 </div>
 
-> whoami
+> who am i ??
 
 name: Aditya Malviya
 role: CSE Undergraduate
