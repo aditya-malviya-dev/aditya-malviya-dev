@@ -163,9 +163,6 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 <div align="center">
 
 </a>
-
-<br/><br/>
-
 </div>
 
 <div align="center">
