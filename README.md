@@ -34,6 +34,20 @@ Name: Aditya Malviya
 
 Role: CSE Undergraduate
 
+🔭 I’m currently working as SMTS at Salesforce, Ex: F5, Rtx Corp, Honeywell.
+
+🤝 Co-Founder and Technical Writer The Nuclear Geeks
+
+👯 I’m looking to collaborate on Workshops and Seminars for DevOps and Cloud
+
+👨‍💻 All of my practice and forked projects are available at https://github.com/aditya-malviya-dev
+
+💬 Ask me about DevOps, Cloud, Python and Automation
+
+📫 How to reach me? ---> adityamalviya015@gmail.com
+
+📄 Hobbies include Editing, Coding, Cricket and Learning.
+
 Focus:
   - Software Engineering
   - Data Structures & Algorithms
@@ -42,20 +56,6 @@ Focus:
   - Open Source
 currently: "Building fundamentals + shipping small projects"
 mindset: "Learn → Build → Break → Debug → Improve"
-
-🔭 I’m currently working as SMTS at Salesforce, Ex: F5, Rtx Corp, Honeywell.
-
-🤝 Co-Founder and Technical Writer The Nuclear Geeks
-
-👯 I’m looking to collaborate on Workshops and Seminars for DevOps and Cloud
-
-👨‍💻 All of my practice and forked projects are available at https://github.com/aditya-malviya
-
-💬 Ask me about DevOps, Cloud, Python and Automation
-
-📫 How to reach me malviya.et@gmail.com
-
-📄 Hobbies include Technical Blogging, Cooking, Cricket and Travelling
 
 I'm at the beginning of my engineering journey, and I'm building it one project, one problem, and one commit at a time.
 
@@ -118,8 +118,6 @@ Exploring
 📊 GITHUB ANALYTICS
 
 <div align="center">
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=aditya-malviya-dev&hide_border=true&background=0B1020&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
