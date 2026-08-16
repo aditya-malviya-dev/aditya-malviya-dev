@@ -36,8 +36,6 @@ Role: CSE Undergraduate
 📫 How to reach me? ---> adityamalviya015@gmail.com
 
 📄 Hobbies include Editing, Coding, Cricket and Learning.
-
- <img src="https://www.gitskins.com/api/section/stats?username=aditya-malviya-dev&theme=satan&style=aura"/>
  
 Focus:
   - Software Engineering
