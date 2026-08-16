@@ -93,6 +93,8 @@ My developer portfolio
 </td>
 </tr>
 </table>
+
+ <img src="https://www.gitskins.com/api/section/stats?username=aditya-malviya-dev&theme=satan&style=aura"/>
  
 🧰 TECHNOLOGIES
 
