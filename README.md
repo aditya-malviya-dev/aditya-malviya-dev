@@ -6,8 +6,6 @@
 <img src="https://www.gitskins.com/api/readme-reference/focus?username=aditya-malviya-dev&theme=neon"/>
   <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
   <br>
-  <br>
-  
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=aditya-malviya-dev&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
