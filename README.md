@@ -41,7 +41,7 @@ Focus:
 currently: "Building fundamentals + shipping small projects"
 mindset: "Learn → Build → Break → Debug → Improve"
 
-I'm at the beginning of my engineering journey — and I'm building it one project, one problem, and one commit at a time.
+I'm at the beginning of my engineering journey, and I'm building it one project, one problem, and one commit at a time.
 
 ⚡ CURRENTLY
 
@@ -129,54 +129,9 @@ Exploring
 
 <div align="center">
 
-Project
-
-What it represents
-
-🌐 VAAS Website
-
-Community platform • APIs • Database • Collaboration
-
-📅 Attendance App
-
-Application logic • Data handling • Team development
-
-💰 Expense Tracker
-
-Practical development • UI • Data management
-
-🧪 Learning Projects
-
-C++ • Python • DSA • Programming fundamentals
+<img src="https://www.gitskins.com/api/section/wordmark?username=aditya-malviya-dev&theme=github-dark&v=profile-preview-2&style=terminal&mode=light" />
 
 </div>
-
-More projects will appear here as I turn what I learn into things people can actually use.
-
-🗺️ THE ROAD AHEAD
-
-                 ┌─────────────────────┐
-                 │   CSE (AI / ML)     │
-                 └──────────┬──────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-          C++ / DSA       Python         Git/GitHub
-             │              │              │
-             └──────────────┼──────────────┘
-                            ▼
-                     Build Projects
-                            │
-                ┌───────────┴───────────┐
-                ▼                       ▼
-          Web Development            AI / ML
-                │                       │
-                └───────────┬───────────┘
-                            ▼
-                    Open Source
-                            │
-                            ▼
-                  Software Engineering
 
 <details>
 <summary><b>📚 My learning roadmap</b></summary>
@@ -203,47 +158,15 @@ Python → NumPy → Pandas → Data Analysis → ML Fundamentals → Models →
 
 Projects → Open Source → Collaboration → System Design → Interview Preparation
 
+<img src="https://www.gitskins.com/api/section/portrait?username=aditya-malviya-dev&theme=aurora&v=profile-preview-2&style=terminal&mode=light" />
+
 </details>
 
 🎯 2026 GOALS
 
 <div align="center">
 
-Goal
-
-Status
-
-🧠 Build strong programming fundamentals
-
-🔄
-
-⚡ Become consistent with DSA
-
-🔄
-
-🐍 Improve Python
-
-🔄
-
-🤖 Learn AI/ML fundamentals
-
-🔄
-
-🛠️ Build meaningful projects
-
-🔄
-
-🌍 Contribute to Open Source
-
-🔄
-
-🐙 Build a strong GitHub portfolio
-
-🔄
-
-💡 Become a better problem solver
-
-🔄
+<img src="https://www.gitskins.com/api/section/wordmark?username=aditya-malviya-dev&theme=aurora&v=profile-preview-2&style=terminal&mode=light" />
 
 </div>
 
