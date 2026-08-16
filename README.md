@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:111827,75:2563EB,100:06B6D4&text=ADITYA%20MALVIYA&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=CSE%20%20%7C%20Aspiring%20Software%20Engineer&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
-
 <a href="https://github.com/aditya-malviya-dev
 ">
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=aditya-malviya-dev&theme=neon"/>
