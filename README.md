@@ -171,6 +171,6 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0B1020&height=130&section=footer" width="100%"/>
 
-<sub>⚡ Built with curiosity • Powered by consistency • Still under construction</sub>
+<sub> Built with curiosity • Powered by consistency • Still under construction</sub>
 
 </div>
