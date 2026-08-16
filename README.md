@@ -28,9 +28,10 @@
 
 > who am i ??
 
-name: Aditya Malviya
-role: CSE Undergraduate
-focus:
+Name: Aditya Malviya
+
+Role: CSE Undergraduate
+Focus:
   - Software Engineering
   - Data Structures & Algorithms
   - Python
