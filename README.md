@@ -180,14 +180,6 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 </div>
 
-🌱 BEYOND THE CODE
-
-01  Curiosity      → I like understanding how things work.
-02  Consistency    → Small progress compounds.
-03  Experimenting  → I learn fastest by building.
-04  Collaboration  → Good ideas become better with people.
-05  Documentation  → If I learn it, I try to share it.
-
 🤝 LET'S CONNECT
 
 <div align="center">
