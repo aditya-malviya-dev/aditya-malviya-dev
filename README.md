@@ -162,7 +162,6 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 <br>
 
 🤝 LET'S CONNECT
-
 <div align="center">
 
 </a>
