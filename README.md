@@ -15,7 +15,9 @@
 
 <img src="https://www.gitskins.com/api/section/wordmark?username=aditya-malviya-dev&theme=github-dark&v=profile-preview-2&style=terminal&mode=light" />
 
-> who am i ??
+ <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
+ 
+> Who am i ??
 
 Name: Aditya Malviya
 
