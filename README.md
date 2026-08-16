@@ -282,6 +282,7 @@ REPEAT ♻️
 &nbsp;
 <a href="https://www.threads.net/">
 <img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+ <img src="https://www.gitskins.com/api/section/social?username=aditya-malviya-dev&theme=neon"/>
 </a>
 
 <br/><br/>
