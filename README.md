@@ -172,7 +172,7 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 </details>
 
-🎯 2026 GOALS
+🎯 2026 Progress
 
 <div align="center">
 
