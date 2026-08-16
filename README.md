@@ -168,7 +168,7 @@ Projects → Open Source → Collaboration → System Design → Interview Prepa
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=aditya-malviya-dev&theme=aurora&v=profile-preview-2&style=terminal&mode=light" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=aditya-malviya-dev&theme=aurora&v=profile-preview-2&style=terminal&mode=light" />
 
 </div>
 
