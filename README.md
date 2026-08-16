@@ -2,7 +2,9 @@
 <a href="https://github.com/aditya-malviya-dev
 ">
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=aditya-malviya-dev&theme=neon"/>
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 <img src="https://www.gitskins.com/api/readme-reference/focus?username=aditya-malviya-dev&theme=neon"/>
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
 </a>
 
 <br/>
