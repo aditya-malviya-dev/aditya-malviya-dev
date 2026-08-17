@@ -165,8 +165,6 @@ Python → NumPy → Pandas → Data Analysis → ML Fundamentals → Models →
 
 Projects → Open Source → Collaboration → System Design → Interview Preparation
 
-<img src="https://www.gitskins.com/api/section/portrait?username=aditya-malviya-dev&theme=aurora&v=profile-preview-2&style=terminal&mode=light" />
-
 </details>
 
  <img src="https://www.gitskins.com/api/readme-reference/divider?username=aditya-malviya-dev&theme=neon"/>
