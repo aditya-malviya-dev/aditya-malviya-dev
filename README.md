@@ -126,6 +126,8 @@ Exploring
 
 <img src="https://streak-stats.demolab.com?user=aditya-malviya-dev&hide_border=true&background=0B1020&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
+<img src="https://www.gitskins.com/api/section/stats?username=aditya-malviya-dev&theme=aurora&style=terminal" />
+
 </div>
 
 <br>
